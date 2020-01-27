@@ -6,3 +6,8 @@ VKVSLVS
 AAAA
 Go shut de fuk up
 ONE
+TWO
+THREE
+#1
+$2
+%3
